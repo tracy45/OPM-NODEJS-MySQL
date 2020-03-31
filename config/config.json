@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Qu3st10n!!",
+    "database": "swift_product",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "Qu3st10n!!",
+    "database": "swift_product",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "Qu3st10n!!",
+    "database": "swift_product",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
